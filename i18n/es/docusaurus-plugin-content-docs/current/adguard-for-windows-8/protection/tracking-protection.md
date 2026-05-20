@@ -5,7 +5,7 @@ sidebar_position: 2
 
 :::info
 
-This article describes AdGuard for Windows v8.0, a comprehensive ad blocker that protects your device at the system level. This is a beta release that is still under development. To try it, download the [beta version of AdGuard for Windows](https://agrd.io/windows_beta).
+Este artículo describe AdGuard para Windows v8.0, un bloqueador de anuncios integral que protege su dispositivo a nivel del sistema. Esta es una versión beta que aún está en desarrollo. Para probarlo, descarga la [versión beta de AdGuard para Windows](https://agrd.io/windows_beta).
 
 :::
 
@@ -31,7 +31,7 @@ For maximum flexibility, select _Custom_ and adjust everything manually. The set
 
 - [Miscellaneous](#miscellaneous)
 
-## General settings
+## Configuración general
 
 ![General settings](https://cdn.adtidy.org/content/kb/ad_blocker/windows/version_8/protection/custom_general.png)
 
@@ -123,11 +123,11 @@ The Flash Player plugin is outdated and highly vulnerable to viruses and exploit
 
 Disables sending technical data about your system and app usage.
 
-### Turn off Advertising ID
+### Deshabilitar Advertising ID
 
 Disables Advertising ID to block tracking of your app usage.
 
-### Disable automatic reporting by Microsoft Defender
+### Deshabilitar el informe automático de Microsoft Defender
 
 Blocks automatic reporting and sampling of suspected malware.
 

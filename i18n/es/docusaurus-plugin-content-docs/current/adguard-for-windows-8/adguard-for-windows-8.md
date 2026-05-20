@@ -1,15 +1,24 @@
 ---
-title: AdGuard for Windows v8
+title: AdGuard para Windows v8
 sidebar_position: 1
 ---
 
 :::info
 
-This article describes AdGuard for Windows v8.0, a comprehensive ad blocker that protects your device at the system level. This is a beta release that is still under development. To try it, download the [beta version of AdGuard for Windows](https://agrd.io/windows_beta).
+Este artículo describe AdGuard para Windows v8.0, un bloqueador de anuncios integral que protege su dispositivo a nivel del sistema. Esta es una versión beta que aún está en desarrollo. Para probarlo, descarga la [versión beta de AdGuard para Windows](https://agrd.io/windows_beta).
 
 :::
 
-AdGuard para Windows es una herramienta fácil de usar que bloquea molestos banners, ventanas emergentes, anuncios de vídeo y rastreadores. But that’s not all: it helps you save traffic, load web pages faster, and protect your computer from undesirable and potentially malicious websites. AdGuard también te protege de los sitios web de phishing y mantiene a tus hijos alejados de contenidos inapropiados.
+AdGuard para Windows es una herramienta fácil de usar que bloquea molestos banners, ventanas emergentes, anuncios de vídeo y rastreadores. Pero eso no es todo: te ayuda a ahorrar tráfico, cargar páginas web más rápido y proteger tu ordenador de sitios web indeseables y potencialmente maliciosos. AdGuard también te protege de los sitios web de phishing y mantiene a tus hijos alejados de contenidos inapropiados.
+
+## Requisitos del sistema
+
+- **OS version:** Microsoft Windows 10 or higher
+- **RAM:** at least 6 GB
+- **Processor:** 2-core, 2.0 GHz (or faster)
+- **Free disk space:** at least 4 GB.
+
+---
 
 ![Home screen](https://cdn.adtidy.org/content/kb/ad_blocker/windows/version_8/main_screen.png)
 
