@@ -470,8 +470,6 @@ Other solutions:
 
 ### OxygenOS
 
-Devices with OxygenOS on board are the most problematic, with its OS-specific cache cleaning and free RAM, including OS optimization. In addition, OxygenOS can interrupt the AdGuard's work if you do not use it for a while. To avoid these unwanted consequences, follow these steps.
-
 #### Locking the app
 
 - Go to **Settings**
@@ -480,9 +478,9 @@ Devices with OxygenOS on board are the most problematic, with its OS-specific ca
 
 - Find AdGuard
 
-- Tap on it and select **Don't optimize** option
+- Tap on it and select ** optimize** option
 
-- Tap **Done** to save
+- Tap **** to save
 
 - Open recent apps menu (as showed on this screenshot):
 
@@ -527,9 +525,6 @@ Normally when you swipe an app away, it won’t close. On OnePlus this may howev
 Go to **Settings** → **Advanced** → **Recent app management** → Switch to **Normal clear**
 
 ### ColorOS
-
-On devices running ColorOS, the system may aggressively restrict background processes as well. To ensure AdGuard works properly in the background, configure the following settings:
-
 - Open **System settings** → **Battery → Battery mode** and select **High performance mode**
 
 ![High performance mode *mobile_border](https://cdn.adtidy.org/content/kb/ad_blocker/android/solving_problems/background-work/high_performance_mode.jpg)
